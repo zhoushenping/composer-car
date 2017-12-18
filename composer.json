@@ -1,0 +1,19 @@
+{
+    "name": "zsp/composer-car",
+    "description": "zsptest",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhoushenping",
+            "email": "zhoushenping@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {}
+}
