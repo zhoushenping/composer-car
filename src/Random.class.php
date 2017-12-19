@@ -1,4 +1,5 @@
 <?php
+namespace zsp\test\aa;
 
 class Random
 {

@@ -11,9 +11,9 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
-    },
+        "psr-4": {
+            "zsp\\test\\aa\\": "src/"
+        }
+    }
     "require": {}
 }
